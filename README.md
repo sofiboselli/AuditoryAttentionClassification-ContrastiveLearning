@@ -33,4 +33,4 @@ enc, test_loader = train_one_case(config, None, False)
 torch.save(enc, '/mimer/NOBACKUP/groups/naiss2023-22-692/Sofia-Gautam/HyperParameterSearch/final_python_model.pth')
 ```
 
-The final report on this project can be found here
+The final report on this project can be found here https://lup.lub.lu.se/student-papers/search/publication/9173516
